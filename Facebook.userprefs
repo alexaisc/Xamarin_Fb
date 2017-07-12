@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{ECC7516A-A485-4A2F-86A1-9210A17788F7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Facebook/Views/FbView.xaml">
+    <Files>
+      <File FileName="Facebook/Views/FbView.xaml" Line="16" Column="40" />
+      <File FileName="Facebook/Views/FbView.xaml.cs" Line="1" Column="1" />
+      <File FileName="Facebook/App.xaml" Line="7" Column="1" />
+      <File FileName="Facebook/App.xaml.cs" Line="12" Column="34" />
+      <File FileName="Facebook/obj/Debug/Facebook.Views.FbView.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Facebook/FacebookPage.xaml" Line="5" Column="1" />
+      <File FileName="Droid/Facebook.Droid.csproj" Line="1" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.3.1-2/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.Debugging.targets" Line="311" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Alexa/Projects/Facebook/Facebook/Views/FbView.xaml" relfile="Facebook/Views/FbView.xaml" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Facebook.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B2E2FC05-A2A4-4061-AF38-A531F2F6F4D9" />
+  <MonoDevelop.Ide.ItemProperties.Facebook.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>
